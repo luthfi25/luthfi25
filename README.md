@@ -1,10 +1,10 @@
-👋 Hi, I’m Luthfi, currently working as a Technical Support Associate. My day-to-day work mainly involves with responding to client's inquiries and educate clients how our systems behave.
+👋 Hi, I’m Luthfi (pronounced 'Loot-Vee'), currently working as a Support Engineer for GitHub. My day-to-day work mostly helping customers to resolve their accounts, general securities, or compliance-related problem.
 
-👀 I’m interested in Software Engineering in a large scale systems. I also have side interest in Text Mining (had a research experience in Topic Model).
+👀 I’m interested in all-things-Software and how we can maximize the potential to simplify, if not resolve, people problems. 
 
-🌱 I’m currently learning Game Development as my hobby. I like to spend time in almost every weekend learning Game Development methodologies. (I use Unity3D!)
+🌱 I’m currently learning Data Analytics as my hobby. I like to spend time in almost every weekend learning new methods. (I use Kaggle!)
 
-💞️ I’m looking to collaborate on Video Game for education purposes. Also anything that relate to my past experiences.
+💞️ Outside of my work, I’m interested in and looking to collaborate on projects that relates to my prior experience including Software Development, Text Analytics project, and Game Development.
 
 📫 You can reach me at my Linkedin Profile https://www.linkedin.com/in/muhammad-luthfi-00406a100/
 
