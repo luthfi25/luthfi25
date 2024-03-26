@@ -1,4 +1,4 @@
-👋 Hi, I’m Luthfi (pronounced 'Loot-Vee'), currently working as a Support Engineer for GitHub. My day-to-day work mostly helping customers to resolve their accounts, general securities, or compliance-related problem.
+👋 Hi, I’m Luthfi (pronounced 'Loot-Vee'), currently working as a Support Engineer for GitHub.
 
 👀 I’m interested in all-things-Software and how we can maximize the potential to simplify, if not resolve, people problems. 
 
